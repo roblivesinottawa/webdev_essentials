@@ -1,0 +1,50 @@
+img {
+  width: 100px;
+  border-radius: 50px;
+  float: left;
+  margin-right: 10px;
+}
+.star {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.world {
+  font-weight: bold;
+}
+.starwars {
+  font-weight: bold;
+}
+
+h1 {
+  color: brown;
+}
+h2 {
+  color: red;
+}
+h3 {
+  color: blue;
+}
+h4 {
+  color: purple;
+}
+h5 {
+  color: green;
+}
+h6 {
+  color: grey;
+}
+
+body {
+  background-color: darkgrey;
+}
+
+em {
+  color: red;
+  font-style: normal;
+}
+
+.lorem {
+  color: whitesmoke;
+  font-weight: bold;
+}
